@@ -28,3 +28,5 @@
 * [26. Rapid STP](Jeremy's%20IT%20Lab/26.%20Rapid%20STP.md)
 * [27. EtherChannel](Jeremy's%20IT%20Lab/27.%20EtherChannel.md)
 * [28. Dynamic Routing](Jeremy's%20IT%20Lab/28.%20Dynamic%20Routing.md)
+* [29. RIP & EIGRP](Jeremy's%20IT%20Lab/29.%20RIP%20&%20EIGRP.md)
+* [30. EIGRP (Continuation)](Jeremy's%20IT%20Lab/30.%20EIGRP%20%28Continuation%29.md)
