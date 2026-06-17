@@ -31,3 +31,4 @@
 * [29. RIP & EIGRP](Jeremy's%20IT%20Lab/29.%20RIP%20&%20EIGRP.md)
 * [30. EIGRP (Continuation)](Jeremy's%20IT%20Lab/30.%20EIGRP%20%28Continuation%29.md)
 * [31. OSPF Part 1](Jeremy's%20IT%20Lab/31.%20OSPF%20Part%201.md)
+* [32. OSPF Part 2](Jeremy's%20IT%20Lab/32.%20OSPF%20Part%202.md)
