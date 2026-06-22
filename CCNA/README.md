@@ -33,3 +33,4 @@
 * [31. OSPF Part 1](Jeremy's%20IT%20Lab/31.%20OSPF%20Part%201.md)
 * [32. OSPF Part 2](Jeremy's%20IT%20Lab/32.%20OSPF%20Part%202.md)
 * [33. OSPF Part 3](Jeremy's%20IT%20Lab/33.%20OSPF%20Part%203.md)
+* [34. First Hop Redundancy Protocols](Jeremy's%20IT%20Lab/34.%20First%20Hop%20Redundancy%20Protocols.md)
