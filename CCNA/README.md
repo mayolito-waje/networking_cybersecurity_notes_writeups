@@ -34,3 +34,4 @@
 * [32. OSPF Part 2](Jeremy's%20IT%20Lab/32.%20OSPF%20Part%202.md)
 * [33. OSPF Part 3](Jeremy's%20IT%20Lab/33.%20OSPF%20Part%203.md)
 * [34. First Hop Redundancy Protocols](Jeremy's%20IT%20Lab/34.%20First%20Hop%20Redundancy%20Protocols.md)
+* [35. TCP & UDP](Jeremy's%20IT%20Lab/35.%20TCP%20&%20UDP.md)
