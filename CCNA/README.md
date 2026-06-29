@@ -36,3 +36,4 @@
 * [34. First Hop Redundancy Protocols](Jeremy's%20IT%20Lab/34.%20First%20Hop%20Redundancy%20Protocols.md)
 * [35. TCP & UDP](Jeremy's%20IT%20Lab/35.%20TCP%20&%20UDP.md)
 * [36. IPv6 (Part 1)](Jeremy's%20IT%20Lab/36.%20IPv6%20%28Part%201%29.md)
+* [37. IPv6 (Part 2)](Jeremy's%20IT%20Lab/37.%20IPv6%20%28Part%202%29.md)
