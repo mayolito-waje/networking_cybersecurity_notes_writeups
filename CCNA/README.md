@@ -38,3 +38,4 @@
 * [36. IPv6 (Part 1)](Jeremy's%20IT%20Lab/36.%20IPv6%20%28Part%201%29.md)
 * [37. IPv6 (Part 2)](Jeremy's%20IT%20Lab/37.%20IPv6%20%28Part%202%29.md)
 * [38. IPv6 (Part 3)](Jeremy's%20IT%20Lab/38.%20IPv6%20%28Part%203%29.md)
+* [39. Standard ACLs](Jeremy's%20IT%20Lab/39.%20Standard%20ACLs.md)
