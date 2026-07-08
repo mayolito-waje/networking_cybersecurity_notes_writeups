@@ -40,3 +40,5 @@
 * [38. IPv6 (Part 3)](Jeremy's%20IT%20Lab/38.%20IPv6%20%28Part%203%29.md)
 * [39. Standard ACLs](Jeremy's%20IT%20Lab/39.%20Standard%20ACLs.md)
 * [40. Extended ACLs](Jeremy's%20IT%20Lab/40.%20Extended%20ACLs.md)
+* [41. CDP & LLDP](Jeremy's%20IT%20Lab/41.%20CDP%20&%20LLDP.md)
+* [42.NTP](Jeremy's%20IT%20Lab/42.NTP.md)
