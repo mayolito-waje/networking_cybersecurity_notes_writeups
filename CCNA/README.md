@@ -42,3 +42,6 @@
 * [40. Extended ACLs](Jeremy's%20IT%20Lab/40.%20Extended%20ACLs.md)
 * [41. CDP & LLDP](Jeremy's%20IT%20Lab/41.%20CDP%20&%20LLDP.md)
 * [42.NTP](Jeremy's%20IT%20Lab/42.NTP.md)
+* [43.DNS](Jeremy's%20IT%20Lab/43.DNS.md)
+* [44. DHCP](Jeremy's%20IT%20Lab/44.%20DHCP.md)
+* [45. SNMP](Jeremy's%20IT%20Lab/45.%20SNMP.md)
