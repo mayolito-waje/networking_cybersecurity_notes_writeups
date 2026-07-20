@@ -45,3 +45,7 @@
 * [43.DNS](Jeremy's%20IT%20Lab/43.DNS.md)
 * [44. DHCP](Jeremy's%20IT%20Lab/44.%20DHCP.md)
 * [45. SNMP](Jeremy's%20IT%20Lab/45.%20SNMP.md)
+* [46. Syslog](Jeremy's%20IT%20Lab/46.%20Syslog.md)
+* [47. SSH](Jeremy's%20IT%20Lab/47.%20SSH.md)
+* [48. FTP & TFTP](Jeremy's%20IT%20Lab/48.%20FTP%20&%20TFTP.md)
+* [49. NAT (Part 1)](Jeremy's%20IT%20Lab/49.%20NAT%20%28Part%201%29.md)
