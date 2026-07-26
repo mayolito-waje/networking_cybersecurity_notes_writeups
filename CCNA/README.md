@@ -49,3 +49,5 @@
 * [47. SSH](Jeremy's%20IT%20Lab/47.%20SSH.md)
 * [48. FTP & TFTP](Jeremy's%20IT%20Lab/48.%20FTP%20&%20TFTP.md)
 * [49. NAT (Part 1)](Jeremy's%20IT%20Lab/49.%20NAT%20%28Part%201%29.md)
+* [50. NAT (Part 2)](Jeremy's%20IT%20Lab/50.%20NAT%20%28Part%202%29.md)
+* [51. QoS (Part 1)](Jeremy's%20IT%20Lab/51.%20QoS%20%28Part%201%29.md)
