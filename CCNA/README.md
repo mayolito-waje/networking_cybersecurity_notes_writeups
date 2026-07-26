@@ -51,3 +51,4 @@
 * [49. NAT (Part 1)](Jeremy's%20IT%20Lab/49.%20NAT%20%28Part%201%29.md)
 * [50. NAT (Part 2)](Jeremy's%20IT%20Lab/50.%20NAT%20%28Part%202%29.md)
 * [51. QoS (Part 1)](Jeremy's%20IT%20Lab/51.%20QoS%20%28Part%201%29.md)
+* [52. QoS (Part 2)](Jeremy's%20IT%20Lab/52.%20QoS%20%28Part%202%29.md)
