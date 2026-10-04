@@ -52,3 +52,6 @@
 * [50. NAT (Part 2)](Jeremy's%20IT%20Lab/50.%20NAT%20%28Part%202%29.md)
 * [51. QoS (Part 1)](Jeremy's%20IT%20Lab/51.%20QoS%20%28Part%201%29.md)
 * [52. QoS (Part 2)](Jeremy's%20IT%20Lab/52.%20QoS%20%28Part%202%29.md)
+* [53. Security Fundamentals](Jeremy's%20IT%20Lab/53.%20Security%20Fundamentals.md)
+* [54. Port Security](Jeremy's%20IT%20Lab/54.%20Port%20Security.md)
+* [55. DHCP Snooping](Jeremy's%20IT%20Lab/55.%20DHCP%20Snooping.md)
